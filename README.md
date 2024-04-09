@@ -6,8 +6,10 @@ Welcome to your one-stop shop for learning and exploring the world of Linux shel
 
 ## Practice scripts: 
 A collection of scripts I've written to hone my skills in various shell scripting concepts like file manipulation, conditional statements, loops, functions, and more.
-Exercises: Solutions to challenges and coding problems encountered while learning shell scripting.
-Projects: Personal projects undertaken to apply my scripting knowledge and explore its capabilities.
+## Exercises:
+Solutions to challenges and coding problems encountered while learning shell scripting.
+## Projects: 
+Personal projects undertaken to apply my scripting knowledge and explore its capabilities.
 This Scriptorium is a work in progress, and I invite you to:
 
 Follow along as I delve deeper into the world of shell scripting.
